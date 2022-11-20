@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="art1_title">Giewont</string>
+    <string name="art1_author">Jan Kowalski (2021)</string>
+    <string name="art2_title">Fajen Tatry</string>
+    <string name="art2_author">Henryk Tatrzański (2018)</string>
+    <string name="art3_title">Zachód Słońca w Górach</string>
+    <string name="art3_author">Jacek Soplica (2022)</string>
+</resources>
