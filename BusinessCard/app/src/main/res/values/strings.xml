@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="Phone">123 456 789</string>
+    <string name="EMail">jan.kowalski@gmail.com</string>
+    <string name="Nickname">\@jankowalski123</string>
+    <string name="Name">Jan Kowalski</string>
+    <string name="Title">Android Developer</string>
+</resources>
